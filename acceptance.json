@@ -29,6 +29,11 @@
       "id": "AC-6",
       "check": "max_readme_chars",
       "value": 5000
+    },
+    {
+      "id": "AC-7",
+      "check": "max_readme_chars",
+      "value": 4000
     }
   ]
 }

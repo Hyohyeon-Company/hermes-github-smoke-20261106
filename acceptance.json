@@ -19,6 +19,11 @@
       "id": "AC-4",
       "check": "max_readme_chars",
       "value": 4000
+    },
+    {
+      "id": "AC-5",
+      "check": "section_exists",
+      "value": "Review Trail"
     }
   ]
 }

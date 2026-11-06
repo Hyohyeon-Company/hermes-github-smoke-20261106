@@ -13,3 +13,8 @@ Tracked in `acceptance.json`. CI job `doc-check` (Node 24) validates every crite
 - Leader App: repository bootstrap and branch protection
 - Dev App: issues, branches, pull requests, merge
 - Reviewer App: formal code review
+
+
+## Review Trail
+
+Every change to this documentation-only repository lands through the Issue -> branch -> pull request -> independent review flow described above. The `doc-check` check on this pull request validates all criteria in `acceptance.json`, including AC-5 for this section, before protected `main` accepts the change. Merging without the required review approval is expected to be blocked by branch protection.

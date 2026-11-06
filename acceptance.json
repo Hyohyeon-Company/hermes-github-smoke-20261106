@@ -1,0 +1,24 @@
+{
+  "criteria": [
+    {
+      "id": "AC-1",
+      "check": "section_exists",
+      "value": "Purpose"
+    },
+    {
+      "id": "AC-2",
+      "check": "section_exists",
+      "value": "Test Scope"
+    },
+    {
+      "id": "AC-3",
+      "check": "section_exists",
+      "value": "Acceptance Criteria"
+    },
+    {
+      "id": "AC-4",
+      "check": "max_readme_chars",
+      "value": 4000
+    }
+  ]
+}

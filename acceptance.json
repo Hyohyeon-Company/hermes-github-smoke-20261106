@@ -34,6 +34,11 @@
       "id": "AC-7",
       "check": "max_readme_chars",
       "value": 4000
+    },
+    {
+      "id": "AC-8",
+      "check": "max_readme_chars",
+      "value": 3000
     }
   ]
 }
